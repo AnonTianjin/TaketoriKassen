@@ -18,4 +18,5 @@
 
 | 版本 | 说明 |
 | --- | --- |
+| 2.2.1 | 房间 / 月面模板世界兼容 Paper 26.1 的 `dimensions/minecraft` 布局：世界判定不再只认 `level.dat`、缺 `level.dat` 自动补齐、复制跳过 `paper/metadata.dat`、加载失败重试一次 |
 | 2.2.0 | 队伍商店（拆弹钳 / 地雷 / 商人 NPC）、包点读条拆弹、加时赛；构建基线 Paper 26.1.2 + Java 25 |
